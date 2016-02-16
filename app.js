@@ -16,5 +16,7 @@ $(document).ready(
     $('li').click(function(){ //says "clicked!" when clicked
         $(this).text("Clicked!");
       });
-
+    // $('a.visited.changed:after').click(function(){ //the clicked effects stay
+    //     $(this).text("Clicked!");
+    //   });
 });
