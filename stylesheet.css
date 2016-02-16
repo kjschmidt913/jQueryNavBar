@@ -1,0 +1,14 @@
+li {
+	float: left;
+	display: inline;
+	padding: 2%;
+}
+
+a {
+	display: block;
+
+}
+
+a:visited{
+	background-color: purple;
+}
